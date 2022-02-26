@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programação Estruturada", "GestãodeEquipamentos.ConsoleApp\Programação Estruturada.csproj", "{DEE445EA-DB6B-43A6-A6D3-C1B813FCC9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programação Estruturadaa", "GestãodeEquipamentos.ConsoleApp\Programação Estruturadaa.csproj", "{DEE445EA-DB6B-43A6-A6D3-C1B813FCC9C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
